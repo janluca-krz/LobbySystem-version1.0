@@ -1,0 +1,9 @@
+name: LobbyPlugin
+version: 0.1
+main: de.modie.main.Main
+
+commands:
+   fly:
+   permission:
+   warp:
+   build:
